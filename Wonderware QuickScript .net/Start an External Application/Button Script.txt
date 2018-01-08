@@ -1,0 +1,17 @@
+dim StartInfo = new System.Diagnostics.ProcessStartInfo; 
+StartInfo.FileName="notepad.exe"; 
+StartInfo.WorkingDirectory="c:\windows\system32"; 
+StartInfo.Arguments = "C:\Users\Public\Downloads\Readme.txt"; 
+
+dim procs = System.Diagnostics.Process.GetProcessesByName(StartInfo.FileName.ToString().Replace(".exe","")); 
+dim proc as System.Diagnostics.Process; 
+if procs.Length > 0 then 
+	proc = procs[1];'use the first instance 
+	StartInfo=proc.StartInfo; 
+	ActivateApp( proc.MainWindowTitle ); 'must both activateApp and WWControl 
+	WWControl( proc.MainWindowTitle , "Restore" );'Restore,Minimize,Maximize,Close 
+else 
+	proc = System.Diagnostics.Process.Start(StartInfo); 
+endif; 
+
+proc.ProcessorAffinity = System.Convert.ToInt32((2 ** System.Environment.ProcessorCount()) - 1); 

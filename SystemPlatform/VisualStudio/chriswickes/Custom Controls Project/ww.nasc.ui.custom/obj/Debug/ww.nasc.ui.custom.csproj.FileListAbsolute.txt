@@ -1,0 +1,38 @@
+c:\users\chris.wickes\documents\visual studio 2010\Projects\ww.nasc.ui.custom\ww.nasc.ui.custom\obj\Debug\ResolveAssemblyReference.cache
+c:\users\chris.wickes\documents\visual studio 2010\Projects\ww.nasc.ui.custom\ww.nasc.ui.custom\obj\Debug\ww.nasc.ui.custom.PlantModelPicker.resources
+c:\users\chris.wickes\documents\visual studio 2010\Projects\ww.nasc.ui.custom\ww.nasc.ui.custom\obj\Debug\ww.nasc.ui.custom.Properties.Resources.resources
+c:\users\chris.wickes\documents\visual studio 2010\Projects\ww.nasc.ui.custom\ww.nasc.ui.custom\obj\Debug\GenerateResource.read.1.tlog
+c:\users\chris.wickes\documents\visual studio 2010\Projects\ww.nasc.ui.custom\ww.nasc.ui.custom\obj\Debug\GenerateResource.write.1.tlog
+c:\users\chris.wickes\documents\visual studio 2010\Projects\ww.nasc.ui.custom\ww.nasc.ui.custom\bin\Debug\ww.nasc.ui.custom.dll
+c:\users\chris.wickes\documents\visual studio 2010\Projects\ww.nasc.ui.custom\ww.nasc.ui.custom\bin\Debug\ww.nasc.ui.custom.pdb
+c:\users\chris.wickes\documents\visual studio 2010\Projects\ww.nasc.ui.custom\ww.nasc.ui.custom\obj\Debug\ww.nasc.ui.custom.dll
+c:\users\chris.wickes\documents\visual studio 2010\Projects\ww.nasc.ui.custom\ww.nasc.ui.custom\obj\Debug\ww.nasc.ui.custom.pdb
+C:\Users\chris.wickes\Desktop\ww.nasc.ui.custom\ww.nasc.ui.custom\bin\Debug\ww.nasc.ui.custom.dll
+C:\Users\chris.wickes\Desktop\ww.nasc.ui.custom\ww.nasc.ui.custom\bin\Debug\ww.nasc.ui.custom.pdb
+C:\Users\chris.wickes\Desktop\ww.nasc.ui.custom\ww.nasc.ui.custom\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\chris.wickes\Desktop\ww.nasc.ui.custom\ww.nasc.ui.custom\obj\Debug\ww.nasc.ui.custom.a2ObjectTreeViewControl.resources
+C:\Users\chris.wickes\Desktop\ww.nasc.ui.custom\ww.nasc.ui.custom\obj\Debug\ww.nasc.ui.custom.Properties.Resources.resources
+C:\Users\chris.wickes\Desktop\ww.nasc.ui.custom\ww.nasc.ui.custom\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\chris.wickes\Desktop\ww.nasc.ui.custom\ww.nasc.ui.custom\obj\Debug\ResGen.read.1.tlog
+C:\Users\chris.wickes\Desktop\ww.nasc.ui.custom\ww.nasc.ui.custom\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\chris.wickes\Desktop\ww.nasc.ui.custom\ww.nasc.ui.custom\obj\Debug\ResGen.write.1.tlog
+C:\Users\chris.wickes\Desktop\ww.nasc.ui.custom\ww.nasc.ui.custom\obj\Debug\ww.nasc.ui.custom.dll
+C:\Users\chris.wickes\Desktop\ww.nasc.ui.custom\ww.nasc.ui.custom\obj\Debug\ww.nasc.ui.custom.pdb
+C:\Users\chris.wickes\Desktop\Rolling\Archive\2015-01-24\Custom 1.9\ww.nasc.ui.custom\bin\Debug\ww.nasc.ui.custom.dll
+C:\Users\chris.wickes\Desktop\Rolling\Archive\2015-01-24\Custom 1.9\ww.nasc.ui.custom\bin\Debug\ww.nasc.ui.custom.pdb
+C:\Users\chris.wickes\Desktop\Rolling\Archive\2015-01-24\Custom 1.9\ww.nasc.ui.custom\obj\Debug\ww.nasc.ui.custom.a2ObjectTreeViewControl.resources
+C:\Users\chris.wickes\Desktop\Rolling\Archive\2015-01-24\Custom 1.9\ww.nasc.ui.custom\obj\Debug\ww.nasc.ui.custom.a2ObjectTreeViewSplitterControl.resources
+C:\Users\chris.wickes\Desktop\Rolling\Archive\2015-01-24\Custom 1.9\ww.nasc.ui.custom\obj\Debug\ww.nasc.ui.custom.Properties.Resources.resources
+C:\Users\chris.wickes\Desktop\Rolling\Archive\2015-01-24\Custom 1.9\ww.nasc.ui.custom\obj\Debug\ww.nasc.ui.custom.csproj.GenerateResource.Cache
+C:\Users\chris.wickes\Desktop\Rolling\Archive\2015-01-24\Custom 1.9\ww.nasc.ui.custom\obj\Debug\ww.nasc.ui.custom.dll
+C:\Users\chris.wickes\Desktop\Rolling\Archive\2015-01-24\Custom 1.9\ww.nasc.ui.custom\obj\Debug\ww.nasc.ui.custom.pdb
+C:\Users\chris.wickes\Desktop\Rolling\Archive\2015-01-24\Custom 1.9\ww.nasc.ui.custom\obj\Debug\ww.nasc.ui.custom.csprojResolveAssemblyReference.cache
+C:\Users\chris.wickes\Desktop\Testing\ww.nasc.ui.custom\bin\Debug\ww.nasc.ui.custom.dll
+C:\Users\chris.wickes\Desktop\Testing\ww.nasc.ui.custom\bin\Debug\ww.nasc.ui.custom.pdb
+C:\Users\chris.wickes\Desktop\Testing\ww.nasc.ui.custom\obj\Debug\ww.nasc.ui.custom.csprojResolveAssemblyReference.cache
+C:\Users\chris.wickes\Desktop\Testing\ww.nasc.ui.custom\obj\Debug\ww.nasc.ui.custom.a2ObjectTreeViewControl.resources
+C:\Users\chris.wickes\Desktop\Testing\ww.nasc.ui.custom\obj\Debug\ww.nasc.ui.custom.a2ObjectTreeViewSplitterControl.resources
+C:\Users\chris.wickes\Desktop\Testing\ww.nasc.ui.custom\obj\Debug\ww.nasc.ui.custom.Properties.Resources.resources
+C:\Users\chris.wickes\Desktop\Testing\ww.nasc.ui.custom\obj\Debug\ww.nasc.ui.custom.csproj.GenerateResource.Cache
+C:\Users\chris.wickes\Desktop\Testing\ww.nasc.ui.custom\obj\Debug\ww.nasc.ui.custom.dll
+C:\Users\chris.wickes\Desktop\Testing\ww.nasc.ui.custom\obj\Debug\ww.nasc.ui.custom.pdb
